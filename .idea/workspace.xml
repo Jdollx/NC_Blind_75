@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bfce89d-e7f7-4e44-b88e-821ec2518993" name="Changes" comment="completed IS ANAGRAM">
-      <change afterPath="$PROJECT_DIR$/src/ArraysHashing/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysHashing/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysHashing/IsAnagram.java" afterDir="false" />
-    </list>
+    <list default="true" id="8bfce89d-e7f7-4e44-b88e-821ec2518993" name="Changes" comment="completed TWO SUM" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +55,7 @@
       <workItem from="1725909030056" duration="347000" />
       <workItem from="1725909381566" duration="1921000" />
       <workItem from="1725982954016" duration="1291000" />
-      <workItem from="1726080298203" duration="749000" />
+      <workItem from="1726080298203" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -109,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725984113861</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed TWO SUM">
+      <option name="closed" value="true" />
+      <created>1726081847007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726081847007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="completed TWO SUM">
+      <option name="closed" value="true" />
+      <created>1726081905060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726081905060</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +142,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="completed DUPLICATE INTEGER" />
     <MESSAGE value="completed IS ANAGRAM" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed IS ANAGRAM" />
+    <MESSAGE value="completed TWO SUM" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed TWO SUM" />
   </component>
 </project>
