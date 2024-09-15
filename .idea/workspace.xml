@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bfce89d-e7f7-4e44-b88e-821ec2518993" name="Changes" comment="completed TWO SUM" />
+    <list default="true" id="8bfce89d-e7f7-4e44-b88e-821ec2518993" name="Changes" comment="completed ANAGRAM GROUPS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +56,7 @@
       <workItem from="1725909381566" duration="1921000" />
       <workItem from="1725982954016" duration="1291000" />
       <workItem from="1726080298203" duration="850000" />
+      <workItem from="1726267622605" duration="1415000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726081905060</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="completed ANAGRAM GROUPS">
+      <option name="closed" value="true" />
+      <created>1726268439437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726268439437</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +152,7 @@
     <MESSAGE value="completed DUPLICATE INTEGER" />
     <MESSAGE value="completed IS ANAGRAM" />
     <MESSAGE value="completed TWO SUM" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed TWO SUM" />
+    <MESSAGE value="completed ANAGRAM GROUPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed ANAGRAM GROUPS" />
   </component>
 </project>
